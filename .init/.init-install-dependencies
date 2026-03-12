@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/carrom-practice-board-239658-239762/carrom_game_frontend"
+}
